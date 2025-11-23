@@ -5,3 +5,8 @@ __pycache__/
 venv/
 .venv/
 *.pyc
+**/node_modules
+**/.next
+**/out
+**/build
+**/dist
