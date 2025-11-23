@@ -4,9 +4,13 @@ __pycache__/
 .env
 venv/
 .venv/
+backend/venv/
 *.pyc
 **/node_modules
 **/.next
 **/out
 **/build
 **/dist
+implementation_instructions.md
+phase2_implementation.md
+project_context.md
