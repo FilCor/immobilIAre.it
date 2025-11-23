@@ -14,7 +14,6 @@ Avrai inoltre bisogno delle chiavi API per i seguenti servizi:
 - OpenAI
 - Google (per funzionalità aggiuntive)
 - Supabase (Database)
-- Qdrant (Vector Database)
 
 ## 🚀 Installazione
 
@@ -70,9 +69,6 @@ SUPABASE_URL=tua_url_supabase
 SUPABASE_KEY=tua_chiave_supabase
 DATABASE_URL=tua_url_database_postgres
 
-# Vector Database
-QDRANT_URL=tua_url_qdrant
-QDRANT_API_KEY=tua_chiave_qdrant
 ```
 
 > **Nota:** Il file `secret.env` è ignorato da git per sicurezza. Non committarlo mai.
