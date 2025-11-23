@@ -68,10 +68,35 @@ GOOGLE_API_KEY=tua_chiave_google
 SUPABASE_URL=tua_url_supabase
 SUPABASE_KEY=tua_chiave_supabase
 DATABASE_URL=tua_url_database_postgres
-
 ```
 
 > **Nota:** Il file `secret.env` è ignorato da git per sicurezza. Non committarlo mai.
+
+## 🗄️ Popolamento Database
+
+Prima di avviare l'applicazione, è necessario configurare e popolare il database Supabase.
+
+### 1. Creazione Schema
+
+1.  Accedi alla dashboard del tuo progetto Supabase.
+2.  Vai nella sezione **SQL Editor**.
+3.  Copia il contenuto del file `backend/schema.sql` ed eseguilo. Questo creerà le tabelle necessarie (`properties`, `property_images`, ecc.).
+
+### 2. Inserimento Dati (Seeding)
+
+Per popolare il database con dati di esempio e immagini processate dall'AI, esegui lo script di seeding.
+
+> **Nota:** Assicurati di avere il file `backend/real_data.json` e la cartella `backend/assets` con le immagini.
+
+```bash
+# Assicurati di essere nella root del progetto e di avere il venv attivo
+source backend/venv/bin/activate
+
+# Esegui lo script
+python backend/scripts/seed_db.py
+```
+
+Lo script analizzerà le immagini con Google Gemini, genererà le descrizioni e caricherà tutto su Supabase.
 
 ## ▶️ Avvio
 
