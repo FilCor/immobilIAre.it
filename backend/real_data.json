@@ -1,0 +1,1455 @@
+[
+    {
+        "id": 1,
+        "title": "Tranquillo Loft in Navigli",
+        "price": 415000,
+        "sqm": 52,
+        "rooms": 2,
+        "bathrooms": 1,
+        "floor": 1,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Navigli",
+        "city": "Milano",
+        "address": "Corso Italia 51, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Loft"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_1344.jpg",
+            "kitchen_1310.jpg",
+            "bed_631.jpg",
+            "bath_737.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Panoramico Trilocale in Città Studi",
+        "price": 535000,
+        "sqm": 96,
+        "rooms": 4,
+        "bathrooms": 1,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Città Studi",
+        "city": "Milano",
+        "address": "Via Savona 150, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Trilocale"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_516.jpg",
+            "kitchen_253.jpg",
+            "din_1050.jpg",
+            "bed_1238.jpg",
+            "bed_892.jpg",
+            "bath_987.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Ristrutturato Bilocale in Porta Romana",
+        "price": 1021000,
+        "sqm": 115,
+        "rooms": 5,
+        "bathrooms": 2,
+        "floor": 5,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Porta Romana",
+        "city": "Milano",
+        "address": "Via Savona 77, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Bilocale"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_849.jpg",
+            "kitchen_1099.jpg",
+            "bed_23.jpg",
+            "bed_131.jpg",
+            "bath_78.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Luminoso Bilocale in Città Studi",
+        "price": 257000,
+        "sqm": 52,
+        "rooms": 2,
+        "bathrooms": 1,
+        "floor": 8,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Città Studi",
+        "city": "Milano",
+        "address": "Viale Monza 123, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Bilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_246.jpg",
+            "kitchen_1359.jpg",
+            "bed_862.jpg",
+            "bath_900.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Prestigioso Trilocale in City Life",
+        "price": 434000,
+        "sqm": 54,
+        "rooms": 3,
+        "bathrooms": 3,
+        "floor": 3,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "City Life",
+        "city": "Milano",
+        "address": "Via Torino 15, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Immobile silenzioso con affaccio interno, portineria tutto il giorno.",
+        "images": [
+            "living_976.jpg",
+            "kitchen_1170.jpg",
+            "bed_1367.jpg",
+            "bed_859.jpg",
+            "bath_275.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Ampio Attico in NoLo",
+        "price": 665000,
+        "sqm": 95,
+        "rooms": 5,
+        "bathrooms": 3,
+        "floor": 3,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "NoLo",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 15, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Attico"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_8.jpg",
+            "kitchen_105.jpg",
+            "bed_262.jpg",
+            "bed_454.jpg",
+            "bath_1098.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Storico Attico in City Life",
+        "price": 353000,
+        "sqm": 52,
+        "rooms": 2,
+        "bathrooms": 3,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "City Life",
+        "city": "Milano",
+        "address": "Via Savona 81, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Attico"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_615.jpg",
+            "kitchen_893.jpg",
+            "bed_1308.jpg",
+            "bath_762.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Tranquillo Loft in Porta Romana",
+        "price": 296000,
+        "sqm": 57,
+        "rooms": 3,
+        "bathrooms": 3,
+        "floor": 6,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Porta Romana",
+        "city": "Milano",
+        "address": "Via Roma 26, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Loft"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_1161.jpg",
+            "kitchen_160.jpg",
+            "bed_542.jpg",
+            "bed_312.jpg",
+            "bath_1162.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Prestigioso Loft in NoLo",
+        "price": 607000,
+        "sqm": 90,
+        "rooms": 5,
+        "bathrooms": 3,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "NoLo",
+        "city": "Milano",
+        "address": "Via Torino 58, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Loft"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_1271.jpg",
+            "kitchen_1187.jpg",
+            "din_1222.jpg",
+            "bed_1103.jpg",
+            "bed_1265.jpg",
+            "bath_821.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Panoramico Quadrilocale in City Life",
+        "price": 601000,
+        "sqm": 100,
+        "rooms": 5,
+        "bathrooms": 3,
+        "floor": 6,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "City Life",
+        "city": "Milano",
+        "address": "Viale Monza 64, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_1029.jpg",
+            "kitchen_1069.jpg",
+            "din_684.jpg",
+            "bed_854.jpg",
+            "bed_1273.jpg",
+            "bath_395.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Tranquillo Trilocale in Brera",
+        "price": 1013000,
+        "sqm": 150,
+        "rooms": 5,
+        "bathrooms": 2,
+        "floor": 4,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Brera",
+        "city": "Milano",
+        "address": "Corso Italia 145, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_13.jpg",
+            "kitchen_10.jpg",
+            "din_1.jpg",
+            "bed_1382.jpg",
+            "bed_599.jpg",
+            "bath_91.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Panoramico Attico in Città Studi",
+        "price": 446000,
+        "sqm": 110,
+        "rooms": 5,
+        "bathrooms": 2,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Città Studi",
+        "city": "Milano",
+        "address": "Via Roma 105, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Attico"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_432.jpg",
+            "kitchen_69.jpg",
+            "din_1433.jpg",
+            "bed_855.jpg",
+            "bed_942.jpg",
+            "bath_235.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Ampio Attico in Isola",
+        "price": 742000,
+        "sqm": 135,
+        "rooms": 5,
+        "bathrooms": 1,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Isola",
+        "city": "Milano",
+        "address": "Via Torino 13, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Attico"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_968.jpg",
+            "kitchen_97.jpg",
+            "din_1377.jpg",
+            "bed_889.jpg",
+            "bed_391.jpg",
+            "bath_769.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Panoramico Quadrilocale in Porta Romana",
+        "price": 248000,
+        "sqm": 48,
+        "rooms": 2,
+        "bathrooms": 2,
+        "floor": 10,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Porta Romana",
+        "city": "Milano",
+        "address": "Via Roma 92, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_913.jpg",
+            "kitchen_551.jpg",
+            "bed_970.jpg",
+            "bath_806.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Moderno Attico in Navigli",
+        "price": 366000,
+        "sqm": 69,
+        "rooms": 3,
+        "bathrooms": 2,
+        "floor": 4,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Navigli",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 10, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Attico"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_514.jpg",
+            "kitchen_911.jpg",
+            "din_352.jpg",
+            "bed_1012.jpg",
+            "bed_991.jpg",
+            "bath_689.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Ristrutturato Trilocale in Brera",
+        "price": 989000,
+        "sqm": 140,
+        "rooms": 5,
+        "bathrooms": 2,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Brera",
+        "city": "Milano",
+        "address": "Corso Italia 16, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_602.jpg",
+            "kitchen_1002.jpg",
+            "bed_434.jpg",
+            "bed_206.jpg",
+            "bath_675.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Tranquillo Bilocale in Navigli",
+        "price": 359000,
+        "sqm": 56,
+        "rooms": 2,
+        "bathrooms": 3,
+        "floor": 1,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Navigli",
+        "city": "Milano",
+        "address": "Corso Italia 73, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Bilocale"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_5.jpg",
+            "kitchen_1324.jpg",
+            "bed_755.jpg",
+            "bath_342.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Panoramico Trilocale in Città Studi",
+        "price": 344000,
+        "sqm": 44,
+        "rooms": 2,
+        "bathrooms": 3,
+        "floor": 3,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Città Studi",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 102, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Immobile silenzioso con affaccio interno, portineria tutto il giorno.",
+        "images": [
+            "living_1080.jpg",
+            "kitchen_446.jpg",
+            "bed_785.jpg",
+            "bath_394.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Ampio Attico in Isola",
+        "price": 178000,
+        "sqm": 42,
+        "rooms": 2,
+        "bathrooms": 1,
+        "floor": 10,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Isola",
+        "city": "Milano",
+        "address": "Corso Italia 91, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Attico"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_166.jpg",
+            "kitchen_122.jpg",
+            "bed_697.jpg",
+            "bath_305.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Ristrutturato Loft in Porta Romana",
+        "price": 641000,
+        "sqm": 72,
+        "rooms": 3,
+        "bathrooms": 2,
+        "floor": 4,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Porta Romana",
+        "city": "Milano",
+        "address": "Viale Monza 148, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Loft"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_1107.jpg",
+            "kitchen_383.jpg",
+            "din_812.jpg",
+            "bed_80.jpg",
+            "bed_730.jpg",
+            "bath_816.jpg"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Prestigioso Bilocale in Isola",
+        "price": 328000,
+        "sqm": 58,
+        "rooms": 2,
+        "bathrooms": 1,
+        "floor": 5,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Isola",
+        "city": "Milano",
+        "address": "Via Roma 139, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Bilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_1409.jpg",
+            "kitchen_1272.jpg",
+            "bed_1006.jpg",
+            "bath_1124.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Panoramico Trilocale in Città Studi",
+        "price": 315000,
+        "sqm": 44,
+        "rooms": 2,
+        "bathrooms": 1,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Città Studi",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 60, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Trilocale"
+        },
+        "description_original": "Immobile silenzioso con affaccio interno, portineria tutto il giorno.",
+        "images": [
+            "living_386.jpg",
+            "kitchen_363.jpg",
+            "bed_1068.jpg",
+            "bath_880.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Panoramico Quadrilocale in Isola",
+        "price": 498000,
+        "sqm": 95,
+        "rooms": 5,
+        "bathrooms": 2,
+        "floor": 5,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Isola",
+        "city": "Milano",
+        "address": "Via Dante 106, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_1315.jpg",
+            "kitchen_1236.jpg",
+            "bed_257.jpg",
+            "bed_448.jpg",
+            "bath_52.jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Panoramico Quadrilocale in Corvetto",
+        "price": 869000,
+        "sqm": 104,
+        "rooms": 4,
+        "bathrooms": 2,
+        "floor": 6,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Corvetto",
+        "city": "Milano",
+        "address": "Via Dante 66, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_236.jpg",
+            "kitchen_645.jpg",
+            "bed_400.jpg",
+            "bed_1378.jpg",
+            "bath_770.jpg"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Ampio Attico in Navigli",
+        "price": 884000,
+        "sqm": 135,
+        "rooms": 5,
+        "bathrooms": 3,
+        "floor": 10,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Navigli",
+        "city": "Milano",
+        "address": "Via Dante 21, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Attico"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_81.jpg",
+            "kitchen_432.jpg",
+            "din_710.jpg",
+            "bed_112.jpg",
+            "bed_1261.jpg",
+            "bath_955.jpg"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Moderno Attico in NoLo",
+        "price": 456000,
+        "sqm": 58,
+        "rooms": 2,
+        "bathrooms": 2,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "NoLo",
+        "city": "Milano",
+        "address": "Via Torino 142, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Attico"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_184.jpg",
+            "kitchen_112.jpg",
+            "bed_816.jpg",
+            "bath_61.jpg"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Moderno Quadrilocale in City Life",
+        "price": 446000,
+        "sqm": 100,
+        "rooms": 4,
+        "bathrooms": 2,
+        "floor": 4,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "City Life",
+        "city": "Milano",
+        "address": "Corso Italia 99, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_356.jpg",
+            "kitchen_259.jpg",
+            "din_1545.jpg",
+            "bed_544.jpg",
+            "bed_835.jpg",
+            "bath_355.jpg"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Moderno Loft in City Life",
+        "price": 593000,
+        "sqm": 120,
+        "rooms": 5,
+        "bathrooms": 1,
+        "floor": 4,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "City Life",
+        "city": "Milano",
+        "address": "Corso Italia 140, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Loft"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_430.jpg",
+            "kitchen_1352.jpg",
+            "bed_1.jpg",
+            "bed_416.jpg",
+            "bath_689.jpg"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Tranquillo Bilocale in Isola",
+        "price": 465000,
+        "sqm": 54,
+        "rooms": 2,
+        "bathrooms": 1,
+        "floor": 6,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Isola",
+        "city": "Milano",
+        "address": "Via Savona 79, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Bilocale"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_505.jpg",
+            "kitchen_873.jpg",
+            "bed_928.jpg",
+            "bath_1099.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Luminoso Loft in Porta Romana",
+        "price": 423000,
+        "sqm": 84,
+        "rooms": 4,
+        "bathrooms": 2,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Porta Romana",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 84, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Loft"
+        },
+        "description_original": "Immobile silenzioso con affaccio interno, portineria tutto il giorno.",
+        "images": [
+            "living_142.jpg",
+            "kitchen_294.jpg",
+            "bed_750.jpg",
+            "bed_104.jpg",
+            "bath_1077.jpg"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Luminoso Quadrilocale in Porta Romana",
+        "price": 197000,
+        "sqm": 52,
+        "rooms": 2,
+        "bathrooms": 2,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Porta Romana",
+        "city": "Milano",
+        "address": "Viale Monza 16, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_1091.jpg",
+            "kitchen_1045.jpg",
+            "bed_1093.jpg",
+            "bath_688.jpg"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Storico Trilocale in NoLo",
+        "price": 376000,
+        "sqm": 42,
+        "rooms": 2,
+        "bathrooms": 3,
+        "floor": 10,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "NoLo",
+        "city": "Milano",
+        "address": "Viale Monza 23, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_1110.jpg",
+            "kitchen_8.jpg",
+            "din_303.jpg",
+            "bed_83.jpg",
+            "bath_114.jpg"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Ampio Quadrilocale in Isola",
+        "price": 641000,
+        "sqm": 130,
+        "rooms": 5,
+        "bathrooms": 2,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Isola",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 41, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_1380.jpg",
+            "kitchen_525.jpg",
+            "bed_865.jpg",
+            "bed_504.jpg",
+            "bath_698.jpg"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Storico Trilocale in Brera",
+        "price": 495000,
+        "sqm": 63,
+        "rooms": 3,
+        "bathrooms": 1,
+        "floor": 3,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Brera",
+        "city": "Milano",
+        "address": "Corso Italia 18, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Trilocale"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_484.jpg",
+            "kitchen_24.jpg",
+            "din_892.jpg",
+            "bed_651.jpg",
+            "bed_606.jpg",
+            "bath_708.jpg"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Ristrutturato Trilocale in Porta Romana",
+        "price": 595000,
+        "sqm": 120,
+        "rooms": 4,
+        "bathrooms": 1,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Porta Romana",
+        "city": "Milano",
+        "address": "Viale Monza 87, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_2.jpg",
+            "kitchen_54.jpg",
+            "din_1372.jpg",
+            "bed_684.jpg",
+            "bed_1228.jpg",
+            "bath_486.jpg"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Moderno Trilocale in Isola",
+        "price": 537000,
+        "sqm": 96,
+        "rooms": 4,
+        "bathrooms": 1,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Isola",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 10, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_1007.jpg",
+            "kitchen_1307.jpg",
+            "bed_120.jpg",
+            "bed_77.jpg",
+            "bath_167.jpg"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Moderno Attico in City Life",
+        "price": 749000,
+        "sqm": 92,
+        "rooms": 4,
+        "bathrooms": 2,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "City Life",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 19, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Attico"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_855.jpg",
+            "kitchen_412.jpg",
+            "bed_1181.jpg",
+            "bed_1057.jpg",
+            "bath_5.jpg"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Moderno Bilocale in Brera",
+        "price": 400000,
+        "sqm": 104,
+        "rooms": 4,
+        "bathrooms": 3,
+        "floor": 5,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Brera",
+        "city": "Milano",
+        "address": "Corso Buenos Aires 86, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Bilocale"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_998.jpg",
+            "kitchen_490.jpg",
+            "bed_358.jpg",
+            "bed_104.jpg",
+            "bath_340.jpg"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Prestigioso Trilocale in Navigli",
+        "price": 273000,
+        "sqm": 54,
+        "rooms": 3,
+        "bathrooms": 2,
+        "floor": 10,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Navigli",
+        "city": "Milano",
+        "address": "Viale Monza 76, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Trilocale"
+        },
+        "description_original": "Immobile silenzioso con affaccio interno, portineria tutto il giorno.",
+        "images": [
+            "living_669.jpg",
+            "kitchen_74.jpg",
+            "din_1536.jpg",
+            "bed_1346.jpg",
+            "bed_443.jpg",
+            "bath_934.jpg"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Tranquillo Quadrilocale in Isola",
+        "price": 320000,
+        "sqm": 54,
+        "rooms": 2,
+        "bathrooms": 2,
+        "floor": 5,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Isola",
+        "city": "Milano",
+        "address": "Via Dante 56, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_619.jpg",
+            "kitchen_1097.jpg",
+            "din_1033.jpg",
+            "bed_572.jpg",
+            "bath_723.jpg"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Luminoso Trilocale in City Life",
+        "price": 505000,
+        "sqm": 112,
+        "rooms": 4,
+        "bathrooms": 3,
+        "floor": 2,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "City Life",
+        "city": "Milano",
+        "address": "Via Dante 104, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Ottimo investimento, zona servitissima e collegata con il centro.",
+        "images": [
+            "living_1067.jpg",
+            "kitchen_1012.jpg",
+            "bed_741.jpg",
+            "bed_1108.jpg",
+            "bath_836.jpg"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Ampio Attico in Corvetto",
+        "price": 720000,
+        "sqm": 84,
+        "rooms": 4,
+        "bathrooms": 1,
+        "floor": 1,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Corvetto",
+        "city": "Milano",
+        "address": "Corso Italia 2, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Attico"
+        },
+        "description_original": "Immobile silenzioso con affaccio interno, portineria tutto il giorno.",
+        "images": [
+            "living_467.jpg",
+            "kitchen_658.jpg",
+            "bed_1041.jpg",
+            "bed_845.jpg",
+            "bath_295.jpg"
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Panoramico Quadrilocale in City Life",
+        "price": 876000,
+        "sqm": 135,
+        "rooms": 5,
+        "bathrooms": 3,
+        "floor": 8,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "City Life",
+        "city": "Milano",
+        "address": "Corso Italia 89, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_1379.jpg",
+            "kitchen_768.jpg",
+            "bed_459.jpg",
+            "bed_437.jpg",
+            "bath_1018.jpg"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Storico Bilocale in Città Studi",
+        "price": 804000,
+        "sqm": 95,
+        "rooms": 5,
+        "bathrooms": 2,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Città Studi",
+        "city": "Milano",
+        "address": "Via Savona 69, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Bilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_563.jpg",
+            "kitchen_1224.jpg",
+            "din_1201.jpg",
+            "bed_285.jpg",
+            "bed_77.jpg",
+            "bath_1249.jpg"
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Tranquillo Trilocale in Brera",
+        "price": 401000,
+        "sqm": 72,
+        "rooms": 3,
+        "bathrooms": 1,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Brera",
+        "city": "Milano",
+        "address": "Viale Monza 105, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Trilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_1339.jpg",
+            "kitchen_693.jpg",
+            "bed_635.jpg",
+            "bed_1323.jpg",
+            "bath_620.jpg"
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Storico Quadrilocale in Brera",
+        "price": 663000,
+        "sqm": 150,
+        "rooms": 5,
+        "bathrooms": 3,
+        "floor": 7,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Brera",
+        "city": "Milano",
+        "address": "Via Torino 91, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Quadrilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_1111.jpg",
+            "kitchen_867.jpg",
+            "bed_112.jpg",
+            "bed_928.jpg",
+            "bath_1239.jpg"
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Luminoso Bilocale in Porta Romana",
+        "price": 499000,
+        "sqm": 96,
+        "rooms": 4,
+        "bathrooms": 3,
+        "floor": 9,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Porta Romana",
+        "city": "Milano",
+        "address": "Via Dante 131, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Bilocale"
+        },
+        "description_original": "Splendido appartamento in contesto signorile, finiture di pregio.",
+        "images": [
+            "living_262.jpg",
+            "kitchen_381.jpg",
+            "bed_161.jpg",
+            "bed_381.jpg",
+            "bath_528.jpg"
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Prestigioso Attico in Corvetto",
+        "price": 477000,
+        "sqm": 105,
+        "rooms": 5,
+        "bathrooms": 2,
+        "floor": 1,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Corvetto",
+        "city": "Milano",
+        "address": "Corso Italia 74, Milano",
+        "specs": {
+            "heating": "Autonomo",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Attico"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_645.jpg",
+            "kitchen_721.jpg",
+            "bed_993.jpg",
+            "bed_1073.jpg",
+            "bath_1138.jpg"
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Tranquillo Trilocale in NoLo",
+        "price": 585000,
+        "sqm": 110,
+        "rooms": 5,
+        "bathrooms": 1,
+        "floor": 2,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "NoLo",
+        "city": "Milano",
+        "address": "Corso Italia 71, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Presente",
+            "contract": "Vendita",
+            "furnished": "Vuoto",
+            "type": "Trilocale"
+        },
+        "description_original": "Soluzione moderna in stabile di recente costruzione, classe A.",
+        "images": [
+            "living_907.jpg",
+            "kitchen_1134.jpg",
+            "din_516.jpg",
+            "bed_1114.jpg",
+            "bed_1017.jpg",
+            "bath_1041.jpg"
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Prestigioso Attico in Città Studi",
+        "price": 333000,
+        "sqm": 75,
+        "rooms": 3,
+        "bathrooms": 2,
+        "floor": 10,
+        "total_floors": 10,
+        "elevator": true,
+        "zone": "Città Studi",
+        "city": "Milano",
+        "address": "Via Savona 69, Milano",
+        "specs": {
+            "heating": "Centralizzato",
+            "ac": "Predisposizione",
+            "contract": "Vendita",
+            "furnished": "Arredato",
+            "type": "Attico"
+        },
+        "description_original": "Ampia metratura da personalizzare, vista mozzafiato sullo skyline.",
+        "images": [
+            "living_762.jpg",
+            "kitchen_630.jpg",
+            "bed_84.jpg",
+            "bed_1362.jpg",
+            "bath_1253.jpg"
+        ]
+    }
+]

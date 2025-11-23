@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+datapizza-ai==0.0.9
+google-generativeai
+google-genai
+supabase
+qdrant-client
+python-dotenv
